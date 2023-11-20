@@ -1,0 +1,50 @@
+*{
+  /* background-color: gray;  */
+  margin: 0px;
+  padding: 0px;
+}
+  
+#header-style {
+  /* background-color: blue; */
+  background-image: linear-gradient(to top right, rgb(129, 154, 236, .5), rgb(73, 167, 255, .5));
+}
+
+.btn-group {
+    display: flux;
+    justify-content: center;
+    margin: 5px;
+    padding: 5px;
+    /* float: left; */
+}
+
+.Menu button {
+    background-image: linear-gradient(to top right, rgb(107, 163, 107), rgb(80, 148, 80));
+    /* background-color: #4CAF50;  */
+    border: 2px solid green;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 10px;
+    border-radius: 10px;
+    
+  }
+  
+  .button:not(:last-child) {
+    border-right: none; /* Prevent double borders */
+  }
+  
+  .button:hover {
+    /* background-color: #3e8e41; */
+    background-image: linear-gradient(to top right, rgb(57, 133, 57), rgb(19, 90, 19));
+    color: yellow;
+    /* background-color: #4CAF50;  */
+  }
+
+  .Menu .current1{
+    background-image: linear-gradient(to top right, rgb(57, 133, 57), rgb(19, 90, 19));
+    color: red;
+  }

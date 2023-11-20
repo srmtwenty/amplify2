@@ -1,0 +1,50 @@
+
+
+.worksAnimPage{
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 1000px; */
+    /* width: 1000px; */
+    width: 1000px;
+    background-color: rgb(205, 243, 241);
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+.conceptA{
+    margin-left: auto;
+    margin-right: auto;
+    width: 750px;
+    border: yellow none 2px;
+    background: gray;
+    border-radius: 15px 15px 15px 15px;
+    padding-bottom: 1px;
+    margin-bottom: 20px;
+}
+
+/* .conceptA .container{
+    border: red solid 2px;
+    background-color:white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    border-radius: 15px 15px 0px 0px;
+} */
+
+.conceptA h2{
+    border: black none 2px;
+    width: 750px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-radius: 15px 15px 0px 0px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+
+/* .conceptA p{
+    border: green solid 2px;
+    margin-top: 0px;
+    padding-bottom: 5px;
+    margin-bottom: 0px;
+} */

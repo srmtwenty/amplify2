@@ -1,0 +1,199 @@
+/* *{
+    background-image: url("static/media/bg1da1.e040ad43.jpg");
+    
+    
+} */
+
+.profileImg{
+    margin-top: 20px;
+    width: 23%;
+    background-color: rgb(238, 238, 238);
+    padding: 1px;
+    vertical-align: top;
+    /* border: red solid 4px; */
+}
+
+.aboutPage{
+    /* background-image: linear-gradient(to bottom, rgb(1, 175, 255, 0), rgb(1, 175, 255, 1)); */
+    /* background-image: linear-gradient(to bottom, rgb(236, 255, 233, 0), rgb(236, 255, 233, 1)); */
+    padding-top: 10px;
+    
+    padding-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+    border: red none 2px;
+    /* background-color: rgb(213, 238, 250); */
+}
+
+.aboutPageSub{
+    border-style: solid;
+    background-color: rgba(217, 240, 255, 0.63);
+    margin-bottom:50px;
+    /* width: 1000px; */
+    padding-top: 50px;
+    
+    /* margin-left:auto;
+    margin-right:auto; */
+    border-radius: 50px;
+    
+}
+
+/* .aboutPage h1{
+    font-weight: 500;
+    line-height: 1.2;
+} */
+
+/* #aboutTopStyle {
+    text-align:left;
+    
+} */
+
+.fStyle{
+    /* margin-top: 50px;
+    margin-bottom: 50px;
+    font-weight: 100px;
+    line-height: 20px; */
+    /* margin-top: 50px;
+    margin-bottom: 50px; */
+    display: inline-block;
+    text-align: left;
+    width: 40%;
+    font-size: 30px;
+    margin-left: 4%;
+    margin-right: 10%;
+    border: black solid 2px;
+    background: rgba(228, 228, 228, .9);
+    margin-top: 30px;
+    padding-left: 30px;
+    border-radius: 15px 15px 15px 15px;
+    /* border: red solid 4px; */
+    
+}
+
+
+.aboutStyle{
+    display: inline-block;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin-top: 20px;
+    width: 800px;
+    margin-bottom: 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 25px 25px 25px 25px;
+    border: black solid 2px;
+    padding: 2px;
+}
+
+
+.aboutStyle2{
+    display: inline-block;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin-top: 20px;
+    width: 800px;
+    margin-bottom: 50px;
+    /*background-color: rgb(184, 184, 184);*/
+    background-image: linear-gradient(to bottom, rgba(184, 184, 184, .8), white);
+    border-radius: 25px 25px 25px 25px;
+    border: black solid 2px;
+    padding: 2px;
+}
+
+/* .h2_skills{
+    background-color:gray; 
+    border: red solid 2px;
+    
+} */
+
+/* .aboutStyle .eachSkill1{
+    background-color: gray;
+    border: black solid 3px;
+    width: 250px;
+    display: flex;
+    
+} */
+
+
+
+.aboutStyle h3{
+    padding-left: 10px;
+    /* font-size:20px; */
+    /* font-weight:150; */
+    line-height: 1;
+    /* border:blue solid 2px; */
+    /* vertical-align: top; */
+    /* display: inline-block; */
+}
+
+.title{
+    /* background-image: linear-gradient(to bottom right, rgb(207, 207, 207, .8), rgb(149, 149, 149, 08)); */
+    /* background-color: white; */
+    border: red none 2px;
+    font-style: italic;
+    border-radius: 25px 25px 0px 0px;/* background-image: linear-gradient(to bottom right, rgb(189, 216, 238), rgb(129, 175, 236)); */
+    margin-top: 0px;
+    /* background-color: gray; */
+    /* border-radius: 5px; */
+    padding:10px;
+    margin-bottom: 0px;
+    /* font-weight: 500;
+    line-height: 1.2; */
+}
+
+.title2{
+    /* background-image: linear-gradient(to bottom right, rgb(207, 207, 207, .8), rgb(149, 149, 149, 08)); */
+    background-color: rgb(184, 184, 184);
+    font-style: italic;
+    margin-top: 0px;
+    /* border: white solid 2px; */
+    border-radius: 25px 25px 0px 0px;/* background-image: linear-gradient(to bottom right, rgb(189, 216, 238), rgb(129, 175, 236)); */
+    color: white;
+    /* background-color: gray; */
+    /* border-radius: 5px; */
+    padding: 10px;
+    margin-bottom: 0px;
+}
+
+.content{
+    /* padding:0px; */
+    /* background-color: orange; */
+    background-image: linear-gradient(to bottom, rgb(255, 255, 100, .7), rgb(251, 251, 174, .7));
+    border: black solid 2px;
+    border-radius:0px 0px 5px 5px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    /* width: 800px; */
+}
+
+
+.content p{
+    margin: 10px;
+    /* margin-bottom: 10px; */
+    font-size: 15px;
+    padding: 4px;
+}
+
+.skills{
+    background-color: white;
+    display: flex;
+    /* width: 800px; */
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 13px;
+    border-radius: 0px 0px 20px 20px;
+    /* margin:0px; */
+    /* width: 100%; */
+}
+
+.skills2{
+    /*background-color: rgb(184, 184, 184);*/
+    display: flex;
+    /* width: 800px; */
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 13px;
+    border-radius: 0px 0px 20px 20px;
+    /* margin:0px; */
+    /* width: 100%; */
+}
